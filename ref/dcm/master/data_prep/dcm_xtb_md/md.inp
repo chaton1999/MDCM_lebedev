@@ -1,0 +1,11 @@
+$md
+   temp=300
+   time=20
+   dump=10
+   step=0.5
+   velo=false
+   nvt=true
+   hmass=1
+   shake=0
+   sccacc=1.0
+$end
